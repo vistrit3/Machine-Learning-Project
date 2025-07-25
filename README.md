@@ -25,10 +25,6 @@ ResNet-50	96.1%
 U-Net	94.5%
 CNN (custom)	89.3%
 
-📸 Sample Output
-<img width="649" height="547" alt="download" src="https://github.com/user-attachments/assets/3de68b92-21e1-463b-a602-b0e7450da110" />
-
-
 🙋‍♂️ Author
 Vistrit Kumar Rai
 LinkedIn | GitHub
